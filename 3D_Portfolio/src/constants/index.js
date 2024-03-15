@@ -60,13 +60,26 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Graphics Designer",
     icon: creator,
   },
   {
     title: "Product Designer",
-    icon: figma
-  }
+    icon: figma,
+  },
+  {title: "Project Manager"
+
+  },
+  {title: "CyberSecurity Engineer"
+
+  },
+  {title: "IoT & Embeded Systems Expert"
+
+  },
+  {title: "Drone Pilot"
+
+  },
+
 ];
 
 const technologies = [
@@ -282,6 +295,87 @@ const projects = [
     image: eHealth,
     source_code_link: "https://github.com/",
   },
+  
+  {
+    name: "Remote Control System",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "React Native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Python",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Node Js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: eHealth,
+    source_code_link: "https://github.com/",
+  },
+
+  {
+    name: "Voltage Regulator",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "React Native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Python",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Node Js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: eHealth,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Sitimulation of a halfwave rectification System",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "React Native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Python",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Node Js",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: eHealth,
+    source_code_link: "https://github.com/",
+  },
+
+
+
+
 ];
 
 export { services, technologies, experiences, testimonials, projects };
