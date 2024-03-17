@@ -178,16 +178,22 @@ const experiences = [
     ],
   },
   {
+    
+
+
     title: "Full stack Developer",
     company_name: "TechTen Planet GH",
     icon: Techten,
     iconBg: "#E6DEDD",
     date: "June 2023 - September 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Worked with team on the development of a React Native mobile app for remote control of home electronics appliances via Raspberry Pi and a four-channel relay, boosting home automation efficiency.",
+      "Implemented a Python backend, enabling seamless communication between the mobile app and Raspberry Pi for efficient appliance control.",
+      "Worked along a cross-functional team in conceptualizing and creating a React Native mobile app to control an autonomous robot using a PiTop and object detection capabilities.",
+      "Developed a Python backend, enabling real-time communication and interaction between the mobile app and the autonomous robot.",
+      "Implemented object detection and avoidance using Pi Camera and OpenCV, enhancing the robot's navigation and interaction with its surroundings.",
+      "Utilized multiprocessing technology to ensure concurrent operation of the Python server, object detection, and avoidance processes. ",
+      "Collaborated closely with hardware engineers to integrate PiTop and camera modules into the robot's control system.",
     ],
   },
 ];
