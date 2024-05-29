@@ -28,6 +28,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import IoT from "./tech/IoT.png";
+import Pm from "./tech/Pm.png";
+import Cyber from "./tech/Cyber.png";
+import CB from "./tech/CB.png";
+import Dev from "./tech/Dev.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -44,6 +49,11 @@ export {
   creator,
   icon_2,
   mobile,
+  IoT,
+  Pm,
+  Cyber,
+  CB,
+  Dev,
   rn0,
   alex,
   eHealth,

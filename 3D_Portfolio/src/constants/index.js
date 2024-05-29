@@ -1,3 +1,4 @@
+import { c } from "maath/dist/index-43782085.esm";
 import {
   mobile,
   backend,
@@ -13,12 +14,17 @@ import {
   controlhub,
   Techten,
   reactjs,
+  IoT,
+  Pm,
+  Cyber,
+  CB,
   redux,
   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
+  Dev,
   docker,
   meta,
   starbucks,
@@ -57,7 +63,7 @@ const services = [
   },
   {
     title: "Backend Developer",
-    icon: backend,
+    icon: Dev,
   },
   {
     title: "Graphics Designer",
@@ -67,16 +73,20 @@ const services = [
     title: "Product Designer",
     icon: figma,
   },
-  {title: "Project Manager"
+  { title: "Project Manager",
+    icon: Pm,
 
   },
-  {title: "CyberSecurity Engineer"
+  { title: "CyberSecurity Engineer",
+    icon: CB,
 
   },
-  {title: "IoT & Embeded Systems Expert"
+  { title: "IoT & Embeded Systems Expert",
+    icon: IoT,
 
   },
-  {title: "Drone Pilot"
+  { title: "Drone Pilot",
+    icon: Cyber,
 
   },
 
@@ -181,7 +191,7 @@ const experiences = [
     
 
 
-    title: "Full stack Developer",
+    title: "Full stack Developer Intern",
     company_name: "TechTen Planet GH",
     icon: Techten,
     iconBg: "#E6DEDD",
@@ -286,7 +296,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "Js",
         color: "pink-text-gradient",
       },
       {
@@ -312,7 +322,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "Js",
         color: "pink-text-gradient",
       },
       {
